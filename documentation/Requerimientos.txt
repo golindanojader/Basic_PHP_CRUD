@@ -1,0 +1,8 @@
+Registro de personas
+1-Datos de la persona
+-DNI,fecha de nac, estatura, peso, edad,tipo de sangre, nombre, apellido, direccion, foto
+
+2-CRUD
+-crear--listo , visualizar, eliminar, actualizar, borrar
+
+image ancho 292 x alto 336
